@@ -98,6 +98,7 @@ Used for converting between frequency (Hz), Mel scale, and cochlear position:
 ### Running Examples
 Run the main script in the MATLAB command window to see the results and waveform plots:
 
+```matlab
 % Run the main test script
 proj1
 
