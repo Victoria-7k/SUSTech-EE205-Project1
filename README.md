@@ -12,8 +12,9 @@ This project aims to simulate the signal processing mechanism of the artificial 
 本项目实现了声码器的基本功能，模拟了声音信号在耳蜗中的频率分解与重构过程。主要包含以下两种实现方式：
 * **Tone Vocoder**: 使用正弦波作为载波合成声音。
 * **Mel Vocoder**: 基于 Mel 频率刻度进行分段和合成 (通常涉及噪声激励或特定的包络提取)。
-
-## 2. 文件说明 File Description
+This project implements the basic functions of a vocoder, simulating the process of frequency decomposition and reconstruction of sound signals in the cochlea. It mainly includes the following two implementations:
+* **Tone Vocoder**: Synthesizes sound using sine waves as carriers.
+* **Mel Vocoder**：Segments and synthesizes sound based on the Mel frequency scale.
 
 ### 核心功能函数 Core Functions
 * `tone_vocoder.m`: **主函数**。实现了基于正弦波的声音频率分段与合成。
@@ -56,10 +57,14 @@ Used for converting between frequency (Hz), Mel scale, and cochlear position:
     - MATLAB 版本: (R2025b) 25.2
     - OS: MACA64
 * 所需工具箱: Signal Processing Toolbox (v25.2), Audio Toolbox (v25.2)
+* Environment Requirements :
+    - MATLAB version: (R2025b) 25.2
+    - OS: MACA64
+* Required Tooloxes: Signal Processing Toolbox (v25.2), Audio Toolbox (v25.2)
 
 ### 运行示例Running Examples
 在 MATLAB 命令窗口中运行主脚本即可看到结果和波形图：
-
+Run the main script in the MATLAB command window to see the results and waveform plots:
 ```matlab
 % main
 proj1
