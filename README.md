@@ -67,6 +67,7 @@ Used for converting between frequency (Hz), Mel scale, and cochlear position:
 
 ### 运行示例 Running Examples
 在 MATLAB 命令窗口中运行主脚本即可看到结果和波形图：
+
 Run the main script in the MATLAB command window to see the results and waveform plots:
 ```matlab
 % main
