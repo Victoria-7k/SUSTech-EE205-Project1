@@ -1,4 +1,4 @@
-```markdown
+
 # SUSTech-EE205-Project1
 [🇨🇳 中文版](#sustech-ee205-project1)|[🇺🇸 English Version](#sustech-ee205-project1-english-ver)
 这是SUSTech EE205 信号和系统 project 1 人工耳蜗的参考程序。
