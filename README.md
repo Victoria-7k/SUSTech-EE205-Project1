@@ -1,7 +1,9 @@
+```markdown
 # SUSTech-EE205-Project1
+[🇨🇳 中文版](#sustech-ee205-project1)|[🇺🇸 English Version](#sustech-ee205-project1-english-ver)
 这是SUSTech EE205 信号和系统 project 1 人工耳蜗的参考程序。
 本项目旨在通过 MATLAB 模拟人工耳蜗的信号处理机制，主要实现了基于不同策略的声音合成。
-This is the reference code for SUSTech EE205 Signals and Systems Project 1: Artificial Cochlea.
+\nThis is the reference code for SUSTech EE205 Signals and Systems Project 1: Artificial Cochlea.
 This project aims to simulate the signal processing mechanism of the artificial cochlea using MATLAB, primarily implementing sound synthesis based on different strategies.
 
 **严禁抄袭 仅供参考 请勿直接用于提交作业**
@@ -52,8 +54,9 @@ proj1
 
 % 或者单独测试 Mel Vocoder
 proj1_mel
+`---`
 
-#SUSTech-EE205-Project1
+#SUSTech-EE205-Project1-English Version
 This is the reference code for SUSTech EE205 Signals and Systems Project 1: Artificial Cochlea.
 This project aims to simulate the signal processing mechanism of the artificial cochlea using MATLAB, primarily implementing sound synthesis based on different strategies.
 
